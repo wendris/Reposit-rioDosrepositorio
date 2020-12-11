@@ -1,0 +1,45 @@
+body
+{
+	background-color:#87CEFA;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.bah 
+{
+	margin-left: 400px;
+}
+p{
+	margin-left: 20px;
+	margin-right: 20px;
+	}
+ul {
+  border: 1px dashed #bbb;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  position: fixed;
+  overflow: hidden;
+  background-color:#000000;
+}
+
+li {
+  float:center;
+  font-weight: normal;
+  font-stretch: normal;
+  font-size: 17px;
+  line-height: 22px;
+  font-family: Impact, Charcoal, sans-serif;
+  letter-spacing: 0;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+
